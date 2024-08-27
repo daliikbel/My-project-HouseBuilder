@@ -1,0 +1,8 @@
+Project Name: "HouseBuilder"
+Project: "A website that provides information on construction services and company contacts for building houses."
+Main Features:
+Registration/Login: Users can sign up and log in (individual or company).
+Service Listing: Display available services with details and company contacts.
+Search/Filtering: Search bar and filters to find services/companies.
+Order and Tracking: Online service ordering and order tracking.
+Reviews/Ratings: Users can leave reviews and rate services.
